@@ -1,0 +1,11 @@
+Package: gapwk
+Type: Package
+Title: Test New Package
+Version: 0.1.0
+Author: Peter Kim <peter.w.kim1@gmail.com>
+Maintainer: Peter Kim <peter.w.kim1@gmail.com>
+Description: Provide a functionality of my package.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
